@@ -1,6 +1,6 @@
 # {Coders handbook} Text Editor - Tauri 2.0
 
-![App Screen Shot](src-tauri/app-icon.png)
+![App Screen Shot](src-tauri/icons/64x64.png)
 
 A high-performance, professional-grade text editor built with the **Tauri 2.0** framework. This editor features a unique **Terminal/Matrix-inspired aesthetic**, integrated with powerful modern web technologies for a lightning-fast experience.
 
